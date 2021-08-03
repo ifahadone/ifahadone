@@ -18,7 +18,7 @@
    <a href="https://www.mnizfahad.com/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_homepage" target="_blank">
       <img alt="mnizfahad.com" src="https://img.shields.io/badge/mnizfahad.com-F05032??&style=for-the-badge&logo=medium&logoColor=white" />
    </a>
-    <a href="https://code.mnizfahad.com/)](https://code.mnizfahad.com/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_code" target="_blank">
+    <a href="https://code.mnizfahad.com/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_code" target="_blank">
       <img alt="code.mnizfahad.com" src="https://img.shields.io/badge/code.mnizfahad.com-%438253d?&style=for-the-badge&logo=medium&logoColor=white" />
    </a>
 </p>
