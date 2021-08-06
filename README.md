@@ -2,7 +2,7 @@
    <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30"/>  
    Hi There!
    <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/>
-</h2> 
+</h2>  
 
 <img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"  width="25px"> **-.- . . .--. / -.-. .- .-.. -- / .- -. -.. / .-- --- .-. -.- / ... -- .- .-. -**
 <p>
@@ -108,4 +108,7 @@ Machine Learning:
 <br>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/mnizfahad)
+<h2></h2>
+
+![Profile views](https://gpvc.arturio.dev/mnizfahad) | ©2021 MNIZ Fahad 
+
