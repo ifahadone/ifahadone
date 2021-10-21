@@ -34,7 +34,7 @@
 <table>
 <td>
 
-```json
+```
 ┌─ 👨‍💻 Thoughtful Programmer
 ├─ 📸 Passionate Photographer
 ├─ 🧭 Curious Explorer 
