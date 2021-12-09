@@ -7,19 +7,19 @@
 <img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"  width="25px"> **-.- . . .--. / -.-. .- .-.. -- / .- -. -.. / .-- --- .-. -.- / ... -- .- .-. -**
 <p>
    
-<!--    <a href="https://twitter.com/mnizfahad" target="_blank">
+   <a href="https://twitter.com/iFahadone" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
    </a> 
    <a href="https://www.linkedin.com/in/---" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>  -->
-   <a href="https://www.mnizfahad.com/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_homepage" target="_blank">
+   </a> 
+<!--    <a href="https://www.mnizfahad.com/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_homepage" target="_blank">
       <img alt="mnizfahad.com" src="https://img.shields.io/badge/mnizfahad.com-002157?&style=for-the-badge&logo=medium&logoColor=white" />
    </a>
     <a href="https://code.mnizfahad.com/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_code" target="_blank">
       <img alt="code.mnizfahad.com" src="https://img.shields.io/badge/code.mnizfahad.com-%2312100E.svg?&style=for-the-badge&logo=LiveJournal&logoColor=white" />
-   </a>
-   <a href="https://github.com/mnizfahad" target="_blank">
+   </a> -->
+   <a href="https://github.com/iFahadone" target="_blank">
       <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
    </a> 
 </p>
