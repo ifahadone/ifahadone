@@ -108,7 +108,7 @@ Machine Learning:
 <br>
 </p>
 
-<h2></h2>
 
-![Profile views](https://gpvc.arturio.dev/mnizfahad) | ©2021 MNIZ Fahad 
-
+<p align="center">
+<img src="https://gpvc.arturio.dev/mnizfahad"> <br> ©2021 | iFahad.one 
+<p>
