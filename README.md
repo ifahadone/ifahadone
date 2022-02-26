@@ -55,12 +55,13 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 </td>
 </table>
 
-
+<!-- icons: https://simpleicons.org/ -->
 <p>
 Programming Language: 
 <img alt="Java"  src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="SQL"  src="https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
 <img alt="Bash"  src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=GNUBash&logoColor=white" />
+<img alt="Powershell"  src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
 <br>
 Scripting Language: 
 <img alt="Python"  src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
