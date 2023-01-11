@@ -34,7 +34,7 @@
 ├─ 📸 Passionate Photographer
 ├─ 🧭 Curious Explorer 
 └──────┬name┐   
-   me@ifahad.one
+   me@fahad.one
    │  └─website┤  
    └───email───┘
 ```
