@@ -107,5 +107,5 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/mnizfahad"> <br> ©2021 | iFahad.one 
+<img src="https://gpvc.arturio.dev/mnizfahad"> <br> ©2021 | Fahad.one 
 <p>
