@@ -107,5 +107,5 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 
 
 <p align="center">
-<img src="https://fahad.one/logo/fahad-art.svg"> <br> ©2025 | Fahad.one 
+<img src="https://fahad.one/logo/fahad.svg" width="14"> <br> ©2025 | Fahad.one 
 <p>
