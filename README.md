@@ -1,12 +1,12 @@
 <h2>
-      <img align="left" src="https://ifahad.one/favicon/android-chrome-192x192.png" width="100"/>Ahoy There!
+      <img align="left" src="https://fahad.one/logo/fahad-art.svg" width="100"/>Ahoy There!
 </h2>  
 
 **-.- . . .--. / -.-. .- .-.. -- / .- -. -.. / .-- --- .-. -.- / ... -- .- .-. -** 
 ##
 <p>
    
-   <a href="https://www.ifahad.one/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_homepage" target="_blank">
+   <a href="https://www.fahad.one/?utm_source=github&utm_medium=github_profile&utm_campaign=github_profile_homepage" target="_blank">
       <img alt="ifahad.one" src="https://img.shields.io/badge/fahad.one-712d3a?&style=for-the-badge&logo=medium&logoColor=white"/>
    </a>
    
@@ -30,12 +30,12 @@
 <td>
 
 ```
-┌─ 👨‍💻 Thoughtful Programmer
-├─ 📸 Passionate Photographer
-├─ 🧭 Curious Explorer 
-└──────┬name┐   
+┌─ IDEATE
+├─ IMPLEMENT
+├─ ITERATE
+└─────┬name┐   
    me@fahad.one
-   │  └─website┤  
+   │  └─web────┤  
    └───email───┘
 ```
 </td>
@@ -107,5 +107,5 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/mnizfahad"> <br> ©2021 | Fahad.one 
+<img src="https://fahad.one/logo/fahad-art.svg"> <br> ©2025 | Fahad.one 
 <p>
